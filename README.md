@@ -23,6 +23,10 @@
 2. Download **Stage-Manager-Setup.exe**  
 3. Run the installer  
 
+> ⚠️ **Note**: Windows SmartScreen might show a warning when opening the app for the first time.
+> 
+> This is expected behavior for new software. You can safely click **"More info" → "Run anyway"**.
+
 > 💡 You can change the CHOpt version by replacing the files listed below with other versions from the official [CHOpt repository](https://github.com/GenericMadScientist/CHOpt).
 >   - `CHOpt.exe`
 >   - `Qt6Core.dll`
