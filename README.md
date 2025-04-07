@@ -3,7 +3,7 @@
 
 ---
 
-![stageManager4 (1)](https://github.com/user-attachments/assets/df46ae7a-ca70-42da-b30d-c491828ac440)
+![stageManager4 (1)](https://github.com/user-attachments/assets/f9cefeb0-590c-4046-a618-ccff4f5735f1)
 
 ---
 
