@@ -32,6 +32,11 @@
 >   - `Qt6Core.dll`
 >   - `Qt6Gui.dll`
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/9ZOyvZr4V5g/hqdefault.jpg)](https://youtu.be/9ZOyvZr4V5g)  
+▶️ *Click to watch a quick demo of Stage Manager in action in a video created by **imDiegoGuimaraes**!*
+
 ---
 
 ## 📫 Feedback & Support
